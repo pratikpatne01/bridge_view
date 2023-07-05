@@ -42,7 +42,7 @@ const About = () => {
                      
                     <div className="col-lg-5  ">
                         <div className="square-list ">
-                            <p className="lead"> was established in 2019, located in Navi MumbaiWe provide best human resource management servicesWe provide best human resource management servicesWe provide best human resource management servicesWe provide best human resource management servicesWe provide best human resource management services</p>
+                            <p className="lead"> was established  bhgdukhcuhdjb in 2019, located in Navi MumbaiWe provide best human resource management servicesWe provide best human resource management servicesWe provide best human resource management servicesWe provide best human resource management servicesWe provide best human resource management services</p>
                             
                         </div>
                     </div>
